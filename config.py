@@ -1,0 +1,2 @@
+BOT_TOKEN = "8924944465:AAEKhZoYfc4UUv6rbI6gnKxBJpNCSB6TBuE"
+ADMIN_IDS = [1289377571]  # Добавь сюда ID админов
